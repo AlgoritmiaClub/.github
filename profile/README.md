@@ -1,13 +1,11 @@
-<img src="./logo_algoritmia.png" align="right" width="75" height="75" />
-
 ### <h1> Hi!👋 Welcome to Algoritmia !</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Algoritmia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/algoritmiaclub/)](https://www.linkedin.com/company/algoritmiaclub/)  [![Gmail Badge](https://img.shields.io/badge/-clubalgoritmiagda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:clubalgoritmiagda@gmail.com)](mailto:clubalgoritmiagda@gmail.com)
 
-*Student Group from [TEC Campus Guadalajara](https://tec.mx/es)* <img src="./tec_logo.png" width="30" height="30" />
+*Student Group from [TEC Campus Guadalajara](https://tec.mx/es)
   
 ## 💡 About us
-<img src="./Foto Grupal.png" align="center" />
+![Algortimia 2024](/profile/Foto%20Grupal.png)
 
 __Algoritmia__ is a student club dedicated *to fostering technical skills and problem-solving abilities among its members*. For years, we have been a community that encourages personal and collective growth through weekly gatherings held on Saturdays. During these meetings, students come together to solve problems, engage in friendly conversations, and exchange knowledge.
 
