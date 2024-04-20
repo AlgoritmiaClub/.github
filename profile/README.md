@@ -1,6 +1,6 @@
 ### <h1> Hi!👋 Welcome to Algoritmia 🔵</b>
 ![Algortimia 2024](/profile/Foto%20Grupal.png)
-Algoritmia is a student club dedicated to fostering technical skills and problem-solving abilities among its members. For years, we have been a community that encourages personal and collective growth through weekly gatherings held on Saturdays. During these meetings, students come together to solve problems, engage in friendly conversations, and exchange knowledge.
+Algoritmia is a student club dedicated to fostering technical skills and problem-solving abilities among its members. Throughout our journey, we have become the largest programming club in western Mexico 🇲🇽, encouraging personal and collective growth through weekly gatherings held on Saturdays. During these meetings, students come together to solve problems, engage in friendly conversations, and exchange knowledge.
 
 ## Our Slogan: "Connect the Dots" ✏️
 
